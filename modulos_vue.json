@@ -1,0 +1,2524 @@
+[
+    {
+      "id": "VUE",
+      "size": 43042112
+    },
+    {
+      "id": "VUE.@babel",
+      "size": 1888798
+    },
+    {
+      "id": "VUE.@babel.parser",
+      "size": 1888696
+    },
+    {
+      "id": "VUE.@babel.parser.CHANGELOG.md",
+      "size": 38238
+    },
+    {
+      "id": "VUE.@babel.parser.LICENSE",
+      "size": 1086
+    },
+    {
+      "id": "VUE.@babel.parser.README.md",
+      "size": 427
+    },
+    {
+      "id": "VUE.@babel.parser.bin",
+      "size": 430
+    },
+    {
+      "id": "VUE.@babel.parser.bin.babel-parser.js",
+      "size": 328
+    },
+    {
+      "id": "VUE.@babel.parser.lib",
+      "size": 1840911
+    },
+    {
+      "id": "VUE.@babel.parser.lib.index.js",
+      "size": 469611
+    },
+    {
+      "id": "VUE.@babel.parser.lib.index.js.map",
+      "size": 1371164
+    },
+    {
+      "id": "VUE.@babel.parser.package.json",
+      "size": 1096
+    },
+    {
+      "id": "VUE.@babel.parser.typings",
+      "size": 6202
+    },
+
+    {
+      "id": "VUE.@babel.parser.typings.babel-parser.d.ts",
+      "size": 6100
+    },
+    {
+      "id": "VUE.@vitejs",
+      "size": 178821
+    },
+    {
+      "id": "VUE.@vitejs.plugin-vue",
+      "size": 178719
+    },
+    {
+      "id": "VUE.@vitejs.plugin-vue.LICENSE",
+      "size": 1098
+    },
+    {
+      "id": "VUE.@vitejs.plugin-vue.README.md",
+      "size": 3916
+    },
+    {
+      "id": "VUE.@vitejs.plugin-vue.dist",
+      "size": 171811
+    },
+    {
+      "id": "VUE.@vitejs.plugin-vue.dist.index.d.ts",
+      "size": 2359
+    },
+    {
+      "id": "VUE.@vitejs.plugin-vue.dist.index.js",
+      "size": 169316
+    },
+    {
+      "id": "VUE.@vitejs.plugin-vue.package.json",
+      "size": 1690
+    },
+    {
+      "id": "VUE.@vue",
+      "size": 6191191
+    },
+    {
+      "id": "VUE.@vue.compiler-core",
+      "size": 693228
+    },
+    {
+      "id": "VUE.@vue.compiler-core.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.compiler-core.README.md",
+      "size": 21
+    },
+    {
+      "id": "VUE.@vue.compiler-core.dist",
+      "size": 690737
+    },
+    {
+      "id": "VUE.@vue.compiler-core.dist.compiler-core.cjs.js",
+      "size": 229320
+    },
+    {
+      "id": "VUE.@vue.compiler-core.dist.compiler-core.cjs.prod.js",
+      "size": 222231
+    },
+    {
+      "id": "VUE.@vue.compiler-core.dist.compiler-core.d.ts",
+      "size": 43752
+    },
+    {
+      "id": "VUE.@vue.compiler-core.dist.compiler-core.esm-bundler.js",
+      "size": 195230
+    },
+    {
+      "id": "VUE.@vue.compiler-core.index.js",
+      "size": 191
+    },
+    {
+      "id": "VUE.@vue.compiler-core.package.json",
+      "size": 950
+    },
+    {
+      "id": "VUE.@vue.compiler-dom",
+      "size": 735839
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.README.md",
+      "size": 19
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist",
+      "size": 733324
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.cjs.js",
+      "size": 76849
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.cjs.prod.js",
+      "size": 74981
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.d.ts",
+      "size": 2147
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.esm-browser.js",
+      "size": 216060
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.esm-browser.prod.js",
+      "size": 56402
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.esm-bundler.js",
+      "size": 19313
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.global.js",
+      "size": 231014
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.dist.compiler-dom.global.prod.js",
+      "size": 56218
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.index.js",
+      "size": 189
+    },
+    {
+      "id": "VUE.@vue.compiler-dom.package.json",
+      "size": 978
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc",
+      "size": 2044482
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc.README.md",
+      "size": 4434
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc.dist",
+      "size": 2037261
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc.dist.compiler-sfc.cjs.js",
+      "size": 504725
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc.dist.compiler-sfc.d.ts",
+      "size": 10104
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc.dist.compiler-sfc.esm-browser.js",
+      "size": 1522262
+    },
+    {
+      "id": "VUE.@vue.compiler-sfc.package.json",
+      "size": 1492
+    },
+    {
+      "id": "VUE.@vue.compiler-ssr",
+      "size": 54358
+    },
+    {
+      "id": "VUE.@vue.compiler-ssr.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.compiler-ssr.README.md",
+      "size": 19
+    },
+    {
+      "id": "VUE.@vue.compiler-ssr.dist",
+      "size": 52315
+    },
+    {
+      "id": "VUE.@vue.compiler-ssr.dist.compiler-ssr.cjs.js",
+      "size": 51963
+    },
+    {
+      "id": "VUE.@vue.compiler-ssr.dist.compiler-ssr.d.ts",
+      "size": 216
+    },
+    {
+      "id": "VUE.@vue.compiler-ssr.package.json",
+      "size": 729
+    },
+    {
+      "id": "VUE.@vue.reactivity",
+      "size": 248698
+    },
+    {
+      "id": "VUE.@vue.reactivity.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.reactivity.README.md",
+      "size": 1049
+    },
+
+    {
+      "id": "VUE.@vue.reactivity.dist",
+      "size": 245230
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.cjs.js",
+      "size": 41403
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.cjs.prod.js",
+      "size": 38466
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.d.ts",
+      "size": 11757
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.esm-browser.js",
+      "size": 42343
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.esm-browser.prod.js",
+      "size": 11647
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.esm-bundler.js",
+      "size": 41895
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.global.js",
+      "size": 45767
+    },
+    {
+      "id": "VUE.@vue.reactivity.dist.reactivity.global.prod.js",
+      "size": 11612
+    },
+    {
+      "id": "VUE.@vue.reactivity.index.js",
+      "size": 185
+    },
+    {
+      "id": "VUE.@vue.reactivity.package.json",
+      "size": 905
+    },
+    {
+      "id": "VUE.@vue.reactivity-transform",
+      "size": 27113
+    },
+    {
+      "id": "VUE.@vue.reactivity-transform.README.md",
+      "size": 3014
+    },
+    {
+      "id": "VUE.@vue.reactivity-transform.dist",
+      "size": 22970
+    },
+    {
+      "id": "VUE.@vue.reactivity-transform.dist.reactivity-transform.cjs.js",
+      "size": 21827
+    },
+    {
+      "id": "VUE.@vue.reactivity-transform.dist.reactivity-transform.d.ts",
+      "size": 1007
+    },
+    {
+      "id": "VUE.@vue.reactivity-transform.package.json",
+      "size": 959
+    },
+    {
+      "id": "VUE.@vue.runtime-core",
+      "size": 952359
+    },
+    {
+      "id": "VUE.@vue.runtime-core.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.runtime-core.README.md",
+      "size": 790
+    },
+    {
+      "id": "VUE.@vue.runtime-core.dist",
+      "size": 949220
+    },
+    {
+      "id": "VUE.@vue.runtime-core.dist.runtime-core.cjs.js",
+      "size": 306756
+    },
+    {
+      "id": "VUE.@vue.runtime-core.dist.runtime-core.cjs.prod.js",
+      "size": 246061
+    },
+    {
+      "id": "VUE.@vue.runtime-core.dist.runtime-core.d.ts",
+      "size": 81656
+    },
+    {
+      "id": "VUE.@vue.runtime-core.dist.runtime-core.esm-bundler.js",
+      "size": 314543
+    },
+    {
+      "id": "VUE.@vue.runtime-core.index.js",
+      "size": 189
+    },
+    {
+      "id": "VUE.@vue.runtime-core.package.json",
+      "size": 831
+    },
+    {
+      "id": "VUE.@vue.runtime-dom",
+      "size": 1231846
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.README.md",
+      "size": 198
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist",
+      "size": 1229203
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.cjs.js",
+      "size": 60141
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.cjs.prod.js",
+      "size": 55312
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.d.ts",
+      "size": 43204
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.esm-browser.js",
+      "size": 407976
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.esm-browser.prod.js",
+      "size": 84400
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.esm-bundler.js",
+      "size": 61658
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.global.js",
+      "size": 432395
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.dist.runtime-dom.global.prod.js",
+      "size": 83777
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.index.js",
+      "size": 187
+    },
+    {
+      "id": "VUE.@vue.runtime-dom.package.json",
+      "size": 929
+    },
+    {
+      "id": "VUE.@vue.server-renderer",
+      "size": 114063
+    },
+    {
+      "id": "VUE.@vue.server-renderer.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.server-renderer.README.md",
+      "size": 3881
+    },
+    {
+      "id": "VUE.@vue.server-renderer.dist",
+      "size": 107779
+    },
+    {
+      "id": "VUE.@vue.server-renderer.dist.server-renderer.cjs.js",
+      "size": 38124
+    },
+    {
+      "id": "VUE.@vue.server-renderer.dist.server-renderer.cjs.prod.js",
+      "size": 29033
+    },
+    {
+      "id": "VUE.@vue.server-renderer.dist.server-renderer.d.ts",
+      "size": 4253
+    },
+    {
+      "id": "VUE.@vue.server-renderer.dist.server-renderer.esm-bundler.js",
+      "size": 36165
+    },
+    {
+      "id": "VUE.@vue.server-renderer.index.js",
+      "size": 195
+    },
+    {
+      "id": "VUE.@vue.server-renderer.package.json",
+      "size": 879
+    },
+    {
+      "id": "VUE.@vue.shared",
+      "size": 88797
+    },
+    {
+      "id": "VUE.@vue.shared.LICENSE",
+      "size": 1091
+    },
+    {
+      "id": "VUE.@vue.shared.README.md",
+      "size": 87
+    },
+    {
+      "id": "VUE.@vue.shared.dist",
+      "size": 86494
+    },
+    {
+      "id": "VUE.@vue.shared.dist.shared.cjs.js",
+      "size": 25270
+    },
+    {
+      "id": "VUE.@vue.shared.dist.shared.cjs.prod.js",
+      "size": 25236
+    },
+    {
+      "id": "VUE.@vue.shared.dist.shared.d.ts",
+      "size": 11715
+    },
+    {
+      "id": "VUE.@vue.shared.dist.shared.esm-bundler.js",
+      "size": 24069
+    },
+    {
+      "id": "VUE.@vue.shared.index.js",
+      "size": 177
+    },
+    {
+      "id": "VUE.@vue.shared.package.json",
+      "size": 710
+    },
+    {
+      "id": "VUE.csstype",
+      "size": 1954010
+    },
+    {
+      "id": "VUE.csstype.LICENSE",
+      "size": 1081
+    },
+    {
+      "id": "VUE.csstype.README.md",
+      "size": 9026
+    },
+    {
+      "id": "VUE.csstype.index.d.ts",
+      "size": 1651497
+    },
+    {
+      "id": "VUE.csstype.index.js.flow",
+      "size": 290240
+    },
+    {
+      "id": "VUE.csstype.package.json",
+      "size": 1928
+    },
+    {
+      "id": "VUE.esbuild",
+      "size": 8624649
+    },
+    {
+      "id": "VUE.esbuild.README.md",
+      "size": 175
+    },
+    {
+      "id": "VUE.esbuild.bin",
+      "size": 8513638
+    },
+    {
+      "id": "VUE.esbuild.bin.esbuild",
+      "size": 8513536
+    },
+    {
+      "id": "VUE.esbuild.install.js",
+      "size": 9428
+    },
+    {
+      "id": "VUE.esbuild.lib",
+      "size": 99991
+    },
+    {
+      "id": "VUE.esbuild.lib.main.d.ts",
+      "size": 17724
+    },
+    {
+      "id": "VUE.esbuild.lib.main.js",
+      "size": 82131
+    },
+    {
+      "id": "VUE.esbuild.package.json",
+      "size": 1179
+    },
+    {
+      "id": "VUE.esbuild-darwin-64",
+      "size": 8514279
+    },
+    {
+      "id": "VUE.esbuild-darwin-64.README.md",
+      "size": 141
+    },
+    {
+      "id": "VUE.esbuild-darwin-64.bin",
+      "size": 8513638
+    },
+    {
+      "id": "VUE.esbuild-darwin-64.bin.esbuild",
+      "size": 8513536
+    },
+    {
+      "id": "VUE.esbuild-darwin-64.package.json",
+      "size": 330
+    },
+    {
+      "id": "VUE.estree-walker",
+      "size": 51399
+    },
+    {
+      "id": "VUE.estree-walker.CHANGELOG.md",
+      "size": 1548
+    },
+    {
+      "id": "VUE.estree-walker.LICENSE",
+      "size": 1126
+    },
+    {
+      "id": "VUE.estree-walker.README.md",
+      "size": 1623
+    },
+    {
+      "id": "VUE.estree-walker.dist",
+      "size": 15377
+    },
+    {
+      "id": "VUE.estree-walker.dist.esm",
+      "size": 7311
+    },
+    {
+      "id": "VUE.estree-walker.dist.esm.estree-walker.js",
+      "size": 7158
+    },
+    {
+      "id": "VUE.estree-walker.dist.esm.package.json",
+      "size": 17
+    },
+    {
+      "id": "VUE.estree-walker.dist.umd",
+      "size": 7930
+    },
+    {
+      "id": "VUE.estree-walker.dist.umd.estree-walker.js",
+      "size": 7828
+    },
+    {
+      "id": "VUE.estree-walker.package.json",
+      "size": 848
+    },
+    {
+      "id": "VUE.estree-walker.src",
+      "size": 7583
+    },
+    {
+      "id": "VUE.estree-walker.src.async.js",
+      "size": 2712
+    },
+    {
+      "id": "VUE.estree-walker.src.index.js",
+      "size": 842
+    },
+    {
+      "id": "VUE.estree-walker.src.package.json",
+      "size": 18
+    },
+    {
+      "id": "VUE.estree-walker.src.sync.js",
+      "size": 2659
+    },
+    {
+      "id": "VUE.estree-walker.src.walker.js",
+      "size": 1114
+    },
+    {
+      "id": "VUE.estree-walker.types",
+      "size": 22988
+    },
+    {
+      "id": "VUE.estree-walker.types.async.d.ts",
+      "size": 1939
+    },
+    {
+      "id": "VUE.estree-walker.types.index.d.ts",
+      "size": 2242
+    },
+    {
+      "id": "VUE.estree-walker.types.sync.d.ts",
+      "size": 1879
+    },
+    {
+      "id": "VUE.estree-walker.types.tsconfig.tsbuildinfo",
+      "size": 15666
+    },
+    {
+      "id": "VUE.estree-walker.types.walker.d.ts",
+      "size": 1024
+    },
+    {
+      "id": "VUE.fsevents",
+      "size": 156694
+    },
+    {
+      "id": "VUE.fsevents.LICENSE",
+      "size": 1133
+    },
+    {
+      "id": "VUE.fsevents.README.md",
+      "size": 2958
+    },
+    {
+      "id": "VUE.fsevents.fsevents.d.ts",
+      "size": 1431
+    },
+    {
+      "id": "VUE.fsevents.fsevents.js",
+      "size": 2424
+    },
+    {
+      "id": "VUE.fsevents.fsevents.node",
+      "size": 147128
+    },
+    {
+      "id": "VUE.fsevents.package.json",
+      "size": 1348
+    },
+    {
+      "id": "VUE.function-bind",
+      "size": 15196
+    },
+    {
+      "id": "VUE.function-bind.LICENSE",
+      "size": 1052
+    },
+    {
+      "id": "VUE.function-bind.README.md",
+      "size": 1488
+    },
+    {
+      "id": "VUE.function-bind.implementation.js",
+      "size": 1463
+    },
+    {
+      "id": "VUE.function-bind.index.js",
+      "size": 126
+    },
+    {
+      "id": "VUE.function-bind.package.json",
+      "size": 1498
+    },
+    {
+      "id": "VUE.function-bind.test",
+      "size": 9127
+    },
+    {
+      "id": "VUE.function-bind.test.index.js",
+      "size": 8991
+    },
+    {
+      "id": "VUE.has",
+      "size": 3212
+    },
+    {
+      "id": "VUE.has.LICENSE-MIT",
+      "size": 1060
+    },
+    {
+      "id": "VUE.has.README.md",
+      "size": 239
+    },
+    {
+      "id": "VUE.has.package.json",
+      "size": 1011
+    },
+    {
+      "id": "VUE.has.src",
+      "size": 231
+    },
+    {
+      "id": "VUE.has.src.index.js",
+      "size": 129
+    },
+    {
+      "id": "VUE.has.test",
+      "size": 433
+    },
+    {
+      "id": "VUE.has.test.index.js",
+      "size": 331
+    },
+    {
+      "id": "VUE.is-core-module",
+      "size": 26847
+    },
+    {
+      "id": "VUE.is-core-module.CHANGELOG.md",
+      "size": 10629
+    },
+    {
+      "id": "VUE.is-core-module.LICENSE",
+      "size": 1078
+    },
+    {
+      "id": "VUE.is-core-module.README.md",
+      "size": 1659
+    },
+    {
+      "id": "VUE.is-core-module.core.json",
+      "size": 5492
+    },
+    {
+      "id": "VUE.is-core-module.index.js",
+      "size": 1757
+    },
+    {
+      "id": "VUE.is-core-module.package.json",
+      "size": 1680
+    },
+    {
+      "id": "VUE.is-core-module.test",
+      "size": 4178
+    },
+    {
+      "id": "VUE.is-core-module.test.index.js",
+      "size": 4076
+    },
+    {
+      "id": "VUE.magic-string",
+      "size": 373566
+    },
+    {
+      "id": "VUE.magic-string.LICENSE",
+      "size": 1051
+    },
+    {
+      "id": "VUE.magic-string.README.md",
+      "size": 9313
+    },
+    {
+      "id": "VUE.magic-string.dist",
+      "size": 353780
+    },
+    {
+      "id": "VUE.magic-string.dist.magic-string.cjs.js",
+      "size": 33911
+    },
+    {
+      "id": "VUE.magic-string.dist.magic-string.cjs.js.map",
+      "size": 80859
+    },
+    {
+      "id": "VUE.magic-string.dist.magic-string.es.js",
+      "size": 33714
+    },
+    {
+      "id": "VUE.magic-string.dist.magic-string.es.js.map",
+      "size": 80361
+    },
+    {
+      "id": "VUE.magic-string.dist.magic-string.umd.js",
+      "size": 37176
+    },
+    {
+      "id": "VUE.magic-string.dist.magic-string.umd.js.map",
+      "size": 87487
+    },
+    {
+      "id": "VUE.magic-string.index.d.ts",
+      "size": 7678
+    },
+    {
+      "id": "VUE.magic-string.package.json",
+      "size": 1506
+    },
+    {
+      "id": "VUE.nanoid",
+      "size": 22875
+    },
+    {
+      "id": "VUE.nanoid.LICENSE",
+      "size": 1095
+    },
+    {
+      "id": "VUE.nanoid.README.md",
+      "size": 1557
+    },
+    {
+      "id": "VUE.nanoid.async",
+      "size": 6783
+    },
+    {
+      "id": "VUE.nanoid.async.index.browser.cjs",
+      "size": 983
+    },
+    {
+      "id": "VUE.nanoid.async.index.browser.js",
+      "size": 973
+    },
+    {
+      "id": "VUE.nanoid.async.index.cjs",
+      "size": 993
+    },
+    {
+      "id": "VUE.nanoid.async.index.d.ts",
+      "size": 1505
+    },
+    {
+      "id": "VUE.nanoid.async.index.js",
+      "size": 976
+    },
+    {
+      "id": "VUE.nanoid.async.index.native.js",
+      "size": 814
+    },
+    {
+      "id": "VUE.nanoid.async.package.json",
+      "size": 233
+    },
+    {
+      "id": "VUE.nanoid.bin",
+      "size": 1231
+    },
+    {
+      "id": "VUE.nanoid.bin.nanoid.cjs",
+      "size": 1129
+    },
+    {
+      "id": "VUE.nanoid.index.browser.cjs",
+      "size": 1074
+    },
+    {
+      "id": "VUE.nanoid.index.browser.js",
+      "size": 1060
+    },
+    {
+      "id": "VUE.nanoid.index.cjs",
+      "size": 1343
+    },
+    {
+      "id": "VUE.nanoid.index.d.ts",
+      "size": 2252
+    },
+    {
+      "id": "VUE.nanoid.index.js",
+      "size": 1326
+    },
+    {
+      "id": "VUE.nanoid.nanoid.js",
+      "size": 169
+    },
+    {
+      "id": "VUE.nanoid.non-secure",
+      "size": 2274
+    },
+    {
+      "id": "VUE.nanoid.non-secure.index.cjs",
+      "size": 499
+    },
+    {
+      "id": "VUE.nanoid.non-secure.index.d.ts",
+      "size": 983
+    },
+    {
+      "id": "VUE.nanoid.non-secure.index.js",
+      "size": 489
+    },
+    {
+      "id": "VUE.nanoid.non-secure.package.json",
+      "size": 99
+    },
+    {
+      "id": "VUE.nanoid.package.json",
+      "size": 1702
+    },
+    {
+      "id": "VUE.nanoid.url-alphabet",
+      "size": 499
+    },
+    {
+      "id": "VUE.nanoid.url-alphabet.index.cjs",
+      "size": 120
+    },
+    {
+      "id": "VUE.nanoid.url-alphabet.index.js",
+      "size": 110
+    },
+    {
+      "id": "VUE.nanoid.url-alphabet.package.json",
+      "size": 99
+    },
+    {
+      "id": "VUE.path-parse",
+      "size": 4715
+    },
+    {
+      "id": "VUE.path-parse.LICENSE",
+      "size": 1080
+    },
+    {
+      "id": "VUE.path-parse.README.md",
+      "size": 871
+    },
+    {
+      "id": "VUE.path-parse.index.js",
+      "size": 1893
+    },
+    {
+      "id": "VUE.path-parse.package.json",
+      "size": 667
+    },
+    {
+      "id": "VUE.picocolors",
+      "size": 5961
+    },
+    {
+      "id": "VUE.picocolors.LICENSE",
+      "size": 781
+    },
+    {
+      "id": "VUE.picocolors.README.md",
+      "size": 622
+    },
+    {
+      "id": "VUE.picocolors.package.json",
+      "size": 550
+    },
+    {
+      "id": "VUE.picocolors.picocolors.browser.js",
+      "size": 360
+    },
+    {
+      "id": "VUE.picocolors.picocolors.d.ts",
+      "size": 138
+    },
+    {
+      "id": "VUE.picocolors.picocolors.js",
+      "size": 2594
+    },
+    {
+      "id": "VUE.picocolors.types.ts",
+      "size": 610
+    },
+    {
+      "id": "VUE.postcss",
+      "size": 188443
+    },
+    {
+      "id": "VUE.postcss.LICENSE",
+      "size": 1095
+    },
+    {
+      "id": "VUE.postcss.README.md",
+      "size": 1965
+    },
+    {
+      "id": "VUE.postcss.lib",
+      "size": 182729
+    },
+    {
+      "id": "VUE.postcss.lib.at-rule.d.ts",
+      "size": 2498
+    },
+    {
+      "id": "VUE.postcss.lib.at-rule.js",
+      "size": 471
+    },
+    {
+      "id": "VUE.postcss.lib.comment.d.ts",
+      "size": 1376
+    },
+    {
+      "id": "VUE.postcss.lib.comment.js",
+      "size": 203
+    },
+    {
+      "id": "VUE.postcss.lib.container.d.ts",
+      "size": 12590
+    },
+    {
+      "id": "VUE.postcss.lib.container.js",
+      "size": 10228
+    },
+    {
+      "id": "VUE.postcss.lib.css-syntax-error.d.ts",
+      "size": 6223
+    },
+    {
+      "id": "VUE.postcss.lib.css-syntax-error.js",
+      "size": 2524
+    },
+    {
+      "id": "VUE.postcss.lib.declaration.d.ts",
+      "size": 3059
+    },
+    {
+      "id": "VUE.postcss.lib.declaration.js",
+      "size": 495
+    },
+    {
+      "id": "VUE.postcss.lib.document.d.ts",
+      "size": 1524
+    },
+    {
+      "id": "VUE.postcss.lib.document.js",
+      "size": 654
+    },
+    {
+      "id": "VUE.postcss.lib.fromJSON.d.ts",
+      "size": 107
+    },
+    {
+      "id": "VUE.postcss.lib.fromJSON.js",
+      "size": 1506
+    },
+    {
+      "id": "VUE.postcss.lib.input.d.ts",
+      "size": 3466
+    },
+    {
+      "id": "VUE.postcss.lib.input.js",
+      "size": 6189
+    },
+    {
+      "id": "VUE.postcss.lib.lazy-result.d.ts",
+      "size": 4630
+    },
+    {
+      "id": "VUE.postcss.lib.lazy-result.js",
+      "size": 13562
+    },
+    {
+      "id": "VUE.postcss.lib.list.d.ts",
+      "size": 1262
+    },
+    {
+      "id": "VUE.postcss.lib.list.js",
+      "size": 1167
+    },
+    {
+      "id": "VUE.postcss.lib.map-generator.js",
+      "size": 8786
+    },
+    {
+      "id": "VUE.postcss.lib.no-work-result.d.ts",
+      "size": 1323
+    },
+    {
+      "id": "VUE.postcss.lib.no-work-result.js",
+      "size": 2551
+    },
+    {
+      "id": "VUE.postcss.lib.node.d.ts",
+      "size": 12457
+    },
+    {
+      "id": "VUE.postcss.lib.node.js",
+      "size": 8485
+    },
+    {
+      "id": "VUE.postcss.lib.parse.d.ts",
+      "size": 89
+    },
+    {
+      "id": "VUE.postcss.lib.parse.js",
+      "size": 1147
+    },
+    {
+      "id": "VUE.postcss.lib.parser.js",
+      "size": 14482
+    },
+    {
+      "id": "VUE.postcss.lib.postcss.d.ts",
+      "size": 11357
+    },
+    {
+      "id": "VUE.postcss.lib.postcss.js",
+      "size": 2786
+    },
+    {
+      "id": "VUE.postcss.lib.postcss.mjs",
+      "size": 980
+    },
+    {
+      "id": "VUE.postcss.lib.previous-map.d.ts",
+      "size": 1618
+    },
+    {
+      "id": "VUE.postcss.lib.previous-map.js",
+      "size": 3923
+    },
+    {
+      "id": "VUE.postcss.lib.processor.d.ts",
+      "size": 3012
+    },
+    {
+      "id": "VUE.postcss.lib.processor.js",
+      "size": 1810
+    },
+    {
+      "id": "VUE.postcss.lib.result.d.ts",
+      "size": 4115
+    },
+    {
+      "id": "VUE.postcss.lib.result.js",
+      "size": 745
+    },
+    {
+      "id": "VUE.postcss.lib.root.d.ts",
+      "size": 1856
+    },
+    {
+      "id": "VUE.postcss.lib.root.js",
+      "size": 1209
+    },
+    {
+      "id": "VUE.postcss.lib.rule.d.ts",
+      "size": 2395
+    },
+    {
+      "id": "VUE.postcss.lib.rule.js",
+      "size": 569
+    },
+    {
+      "id": "VUE.postcss.lib.stringifier.d.ts",
+      "size": 1202
+    },
+    {
+      "id": "VUE.postcss.lib.stringifier.js",
+      "size": 8220
+    },
+    {
+      "id": "VUE.postcss.lib.stringify.d.ts",
+      "size": 107
+    },
+    {
+      "id": "VUE.postcss.lib.stringify.js",
+      "size": 213
+    },
+    {
+      "id": "VUE.postcss.lib.symbols.js",
+      "size": 91
+    },
+    {
+      "id": "VUE.postcss.lib.terminal-highlight.js",
+      "size": 1399
+    },
+    {
+      "id": "VUE.postcss.lib.tokenize.js",
+      "size": 6536
+    },
+    {
+      "id": "VUE.postcss.lib.warn-once.js",
+      "size": 256
+    },
+    {
+      "id": "VUE.postcss.lib.warning.d.ts",
+      "size": 2735
+    },
+    {
+      "id": "VUE.postcss.lib.warning.js",
+      "size": 739
+    },
+    {
+      "id": "VUE.postcss.package.json",
+      "size": 2450
+    },
+    {
+      "id": "VUE.resolve",
+      "size": 150002
+    },
+    {
+      "id": "VUE.resolve.LICENSE",
+      "size": 1071
+    },
+    {
+      "id": "VUE.resolve.SECURITY.md",
+      "size": 157
+    },
+    {
+      "id": "VUE.resolve.appveyor.yml",
+      "size": 2768
+    },
+    {
+      "id": "VUE.resolve.async.js",
+      "size": 56
+    },
+    {
+      "id": "VUE.resolve.bin",
+      "size": 1575
+    },
+    {
+      "id": "VUE.resolve.bin.resolve",
+      "size": 1473
+    },
+    {
+      "id": "VUE.resolve.example",
+      "size": 394
+    },
+    {
+      "id": "VUE.resolve.example.async.js",
+      "size": 155
+    },
+    {
+      "id": "VUE.resolve.example.sync.js",
+      "size": 103
+    },
+    {
+      "id": "VUE.resolve.index.js",
+      "size": 174
+    },
+    {
+      "id": "VUE.resolve.lib",
+      "size": 28765
+    },
+    {
+      "id": "VUE.resolve.lib.async.js",
+      "size": 11359
+    },
+    {
+      "id": "VUE.resolve.lib.caller.js",
+      "size": 354
+    },
+    {
+      "id": "VUE.resolve.lib.core.js",
+      "size": 1653
+    },
+    {
+      "id": "VUE.resolve.lib.core.json",
+      "size": 5469
+    },
+    {
+      "id": "VUE.resolve.lib.homedir.js",
+      "size": 805
+    },
+    {
+      "id": "VUE.resolve.lib.is-core.js",
+      "size": 116
+    },
+    {
+      "id": "VUE.resolve.lib.node-modules-paths.js",
+      "size": 1294
+    },
+    {
+      "id": "VUE.resolve.lib.normalize-options.js",
+      "size": 348
+    },
+    {
+      "id": "VUE.resolve.lib.sync.js",
+      "size": 6993
+    },
+    {
+      "id": "VUE.resolve.package.json",
+      "size": 1765
+    },
+    {
+      "id": "VUE.resolve.readme.markdown",
+      "size": 11504
+    },
+    {
+      "id": "VUE.resolve.sync.js",
+      "size": 55
+    },
+    {
+      "id": "VUE.resolve.test",
+      "size": 101140
+    },
+    {
+      "id": "VUE.resolve.test.core.js",
+      "size": 2671
+    },
+    {
+      "id": "VUE.resolve.test.dotdot",
+      "size": 306
+    },
+    {
+      "id": "VUE.resolve.test.dotdot.abc",
+      "size": 141
+    },
+    {
+      "id": "VUE.resolve.test.dotdot.abc.index.js",
+      "size": 39
+    },
+    {
+      "id": "VUE.resolve.test.dotdot.index.js",
+      "size": 29
+    },
+    {
+      "id": "VUE.resolve.test.dotdot.js",
+      "size": 799
+    },
+    {
+      "id": "VUE.resolve.test.faulty_basedir.js",
+      "size": 807
+    },
+    {
+      "id": "VUE.resolve.test.filter.js",
+      "size": 1045
+    },
+    {
+      "id": "VUE.resolve.test.filter_sync.js",
+      "size": 1427
+    },
+    {
+      "id": "VUE.resolve.test.home_paths.js",
+      "size": 4472
+    },
+    {
+      "id": "VUE.resolve.test.home_paths_sync.js",
+      "size": 3797
+    },
+    {
+      "id": "VUE.resolve.test.mock.js",
+      "size": 10012
+    },
+    {
+      "id": "VUE.resolve.test.mock_sync.js",
+      "size": 6047
+    },
+    {
+      "id": "VUE.resolve.test.module_dir",
+      "size": 993
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.xmodules",
+      "size": 255
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.xmodules.aaa",
+      "size": 153
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.xmodules.aaa.index.js",
+      "size": 51
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.ymodules",
+      "size": 255
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.ymodules.aaa",
+      "size": 153
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.ymodules.aaa.index.js",
+      "size": 51
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.zmodules",
+      "size": 313
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.zmodules.bbb",
+      "size": 211
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.zmodules.bbb.main.js",
+      "size": 51
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.zmodules.bbb.package.json",
+      "size": 24
+    },
+    {
+      "id": "VUE.resolve.test.module_dir.js",
+      "size": 1558
+    },
+    {
+      "id": "VUE.resolve.test.node-modules-paths.js",
+      "size": 5101
+    },
+    {
+      "id": "VUE.resolve.test.node_path",
+      "size": 905
+    },
+    {
+      "id": "VUE.resolve.test.node_path.x",
+      "size": 384
+    },
+    {
+      "id": "VUE.resolve.test.node_path.x.aaa",
+      "size": 124
+    },
+    {
+      "id": "VUE.resolve.test.node_path.x.aaa.index.js",
+      "size": 22
+    },
+    {
+      "id": "VUE.resolve.test.node_path.x.ccc",
+      "size": 124
+    },
+    {
+      "id": "VUE.resolve.test.node_path.x.ccc.index.js",
+      "size": 22
+    },
+    {
+      "id": "VUE.resolve.test.node_path.y",
+      "size": 385
+    },
+    {
+      "id": "VUE.resolve.test.node_path.y.bbb",
+      "size": 124
+    },
+    {
+      "id": "VUE.resolve.test.node_path.y.bbb.index.js",
+      "size": 22
+    },
+    {
+      "id": "VUE.resolve.test.node_path.y.ccc",
+      "size": 125
+    },
+    {
+      "id": "VUE.resolve.test.node_path.y.ccc.index.js",
+      "size": 23
+    },
+    {
+      "id": "VUE.resolve.test.node_path.js",
+      "size": 2128
+    },
+    {
+      "id": "VUE.resolve.test.nonstring.js",
+      "size": 182
+    },
+    {
+      "id": "VUE.resolve.test.pathfilter",
+      "size": 204
+    },
+    {
+      "id": "VUE.resolve.test.pathfilter.deep_ref",
+      "size": 102
+    },
+    {
+      "id": "VUE.resolve.test.pathfilter.deep_ref.main.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.pathfilter.js",
+      "size": 2248
+    },
+    {
+      "id": "VUE.resolve.test.precedence",
+      "size": 587
+    },
+    {
+      "id": "VUE.resolve.test.precedence.aaa",
+      "size": 189
+    },
+    {
+      "id": "VUE.resolve.test.precedence.aaa.index.js",
+      "size": 25
+    },
+    {
+      "id": "VUE.resolve.test.precedence.aaa.main.js",
+      "size": 28
+    },
+    {
+      "id": "VUE.resolve.test.precedence.aaa.js",
+      "size": 24
+    },
+    {
+      "id": "VUE.resolve.test.precedence.bbb",
+      "size": 146
+    },
+    {
+      "id": "VUE.resolve.test.precedence.bbb.main.js",
+      "size": 44
+    },
+    {
+      "id": "VUE.resolve.test.precedence.bbb.js",
+      "size": 24
+    },
+    {
+      "id": "VUE.resolve.test.precedence.js",
+      "size": 646
+    },
+    {
+      "id": "VUE.resolve.test.resolver",
+      "size": 8645
+    },
+    {
+      "id": "VUE.resolve.test.resolver.baz",
+      "size": 235
+    },
+    {
+      "id": "VUE.resolve.test.resolver.baz.doom.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.baz.package.json",
+      "size": 45
+    },
+    {
+      "id": "VUE.resolve.test.resolver.baz.quux.js",
+      "size": 20
+    },
+    {
+      "id": "VUE.resolve.test.resolver.browser_field",
+      "size": 233
+    },
+    {
+      "id": "VUE.resolve.test.resolver.browser_field.a.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.browser_field.b.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.browser_field.package.json",
+      "size": 63
+    },
+    {
+      "id": "VUE.resolve.test.resolver.cup.coffee",
+      "size": 1
+    },
+    {
+      "id": "VUE.resolve.test.resolver.dot_main",
+      "size": 176
+    },
+    {
+      "id": "VUE.resolve.test.resolver.dot_main.index.js",
+      "size": 20
+    },
+    {
+      "id": "VUE.resolve.test.resolver.dot_main.package.json",
+      "size": 20
+    },
+    {
+      "id": "VUE.resolve.test.resolver.dot_slash_main",
+      "size": 177
+    },
+    {
+      "id": "VUE.resolve.test.resolver.dot_slash_main.index.js",
+      "size": 20
+    },
+    {
+      "id": "VUE.resolve.test.resolver.dot_slash_main.package.json",
+      "size": 21
+    },
+    {
+      "id": "VUE.resolve.test.resolver.foo.js",
+      "size": 20
+    },
+    {
+      "id": "VUE.resolve.test.resolver.incorrect_main",
+      "size": 279
+    },
+    {
+      "id": "VUE.resolve.test.resolver.incorrect_main.index.js",
+      "size": 116
+    },
+    {
+      "id": "VUE.resolve.test.resolver.incorrect_main.package.json",
+      "size": 27
+    },
+    {
+      "id": "VUE.resolve.test.resolver.invalid_main",
+      "size": 195
+    },
+    {
+      "id": "VUE.resolve.test.resolver.invalid_main.package.json",
+      "size": 93
+    },
+    {
+      "id": "VUE.resolve.test.resolver.malformed_package_json",
+      "size": 138
+    },
+    {
+      "id": "VUE.resolve.test.resolver.malformed_package_json.index.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.malformed_package_json.package.json",
+      "size": 2
+    },
+    {
+      "id": "VUE.resolve.test.resolver.mug.coffee",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.mug.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo",
+      "size": 2902
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.lerna.json",
+      "size": 63
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.package.json",
+      "size": 380
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.packages",
+      "size": 2289
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.packages.package-a",
+      "size": 1736
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.packages.package-a.index.js",
+      "size": 1319
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.packages.package-a.package.json",
+      "size": 281
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.packages.package-b",
+      "size": 417
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.packages.package-b.index.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.multirepo.packages.package-b.package.json",
+      "size": 281
+    },
+    {
+      "id": "VUE.resolve.test.resolver.nested_symlinks",
+      "size": 1995
+    },
+    {
+      "id": "VUE.resolve.test.resolver.nested_symlinks.mylib",
+      "size": 1893
+    },
+    {
+      "id": "VUE.resolve.test.resolver.nested_symlinks.mylib.async.js",
+      "size": 858
+    },
+    {
+      "id": "VUE.resolve.test.resolver.nested_symlinks.mylib.package.json",
+      "size": 259
+    },
+    {
+      "id": "VUE.resolve.test.resolver.nested_symlinks.mylib.sync.js",
+      "size": 606
+    },
+    {
+      "id": "VUE.resolve.test.resolver.other_path",
+      "size": 238
+    },
+    {
+      "id": "VUE.resolve.test.resolver.other_path.lib",
+      "size": 102
+    },
+    {
+      "id": "VUE.resolve.test.resolver.other_path.lib.other-lib.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.other_path.root.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.quux",
+      "size": 224
+    },
+    {
+      "id": "VUE.resolve.test.resolver.quux.foo",
+      "size": 122
+    },
+    {
+      "id": "VUE.resolve.test.resolver.quux.foo.index.js",
+      "size": 20
+    },
+    {
+      "id": "VUE.resolve.test.resolver.same_names",
+      "size": 279
+    },
+    {
+      "id": "VUE.resolve.test.resolver.same_names.foo",
+      "size": 122
+    },
+    {
+      "id": "VUE.resolve.test.resolver.same_names.foo.index.js",
+      "size": 20
+    },
+    {
+      "id": "VUE.resolve.test.resolver.same_names.foo.js",
+      "size": 21
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked",
+      "size": 660
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked._",
+      "size": 340
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked._.node_modules",
+      "size": 102
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked._.node_modules.foo.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked._.symlink_target",
+      "size": 102
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked.package",
+      "size": 184
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked.package.bar.js",
+      "size": 24
+    },
+    {
+      "id": "VUE.resolve.test.resolver.symlinked.package.package.json",
+      "size": 24
+    },
+    {
+      "id": "VUE.resolve.test.resolver.without_basedir",
+      "size": 213
+    },
+    {
+      "id": "VUE.resolve.test.resolver.without_basedir.main.js",
+      "size": 111
+    },
+    {
+      "id": "VUE.resolve.test.resolver.js",
+      "size": 18556
+    },
+    {
+      "id": "VUE.resolve.test.resolver_sync.js",
+      "size": 18010
+    },
+    {
+      "id": "VUE.resolve.test.shadowed_core",
+      "size": 306
+    },
+    {
+      "id": "VUE.resolve.test.shadowed_core.node_modules",
+      "size": 204
+    },
+    {
+      "id": "VUE.resolve.test.shadowed_core.node_modules.util",
+      "size": 102
+    },
+    {
+      "id": "VUE.resolve.test.shadowed_core.node_modules.util.index.js",
+      "size": 0
+    },
+    {
+      "id": "VUE.resolve.test.shadowed_core.js",
+      "size": 1814
+    },
+    {
+      "id": "VUE.resolve.test.subdirs.js",
+      "size": 353
+    },
+    {
+      "id": "VUE.resolve.test.symlinks.js",
+      "size": 6535
+    },
+    {
+      "id": "VUE.rollup",
+      "size": 6573593
+    },
+    {
+      "id": "VUE.rollup.CHANGELOG.md",
+      "size": 242619
+    },
+    {
+      "id": "VUE.rollup.LICENSE.md",
+      "size": 35412
+    },
+    {
+      "id": "VUE.rollup.README.md",
+      "size": 8835
+    },
+    {
+      "id": "VUE.rollup.dist",
+      "size": 6281029
+    },
+    {
+      "id": "VUE.rollup.dist.bin",
+      "size": 73465
+    },
+    {
+      "id": "VUE.rollup.dist.bin.rollup",
+      "size": 73363
+    },
+    {
+      "id": "VUE.rollup.dist.es",
+      "size": 1419210
+    },
+    {
+      "id": "VUE.rollup.dist.es.package.json",
+      "size": 17
+    },
+    {
+      "id": "VUE.rollup.dist.es.rollup.browser.js",
+      "size": 395242
+    },
+    {
+      "id": "VUE.rollup.dist.es.rollup.js",
+      "size": 373
+    },
+    {
+      "id": "VUE.rollup.dist.es.shared",
+      "size": 1023374
+    },
+    {
+      "id": "VUE.rollup.dist.es.shared.rollup.js",
+      "size": 884933
+    },
+    {
+      "id": "VUE.rollup.dist.es.shared.watch.js",
+      "size": 138305
+    },
+    {
+      "id": "VUE.rollup.dist.loadConfigFile.js",
+      "size": 578
+    },
+    {
+      "id": "VUE.rollup.dist.rollup.browser.js",
+      "size": 394586
+    },
+    {
+      "id": "VUE.rollup.dist.rollup.browser.js.map",
+      "size": 3298388
+    },
+    {
+      "id": "VUE.rollup.dist.rollup.d.ts",
+      "size": 26978
+    },
+    {
+      "id": "VUE.rollup.dist.rollup.js",
+      "size": 649
+    },
+    {
+      "id": "VUE.rollup.dist.shared",
+      "size": 1066835
+    },
+    {
+      "id": "VUE.rollup.dist.shared.index.js",
+      "size": 121328
+    },
+    {
+      "id": "VUE.rollup.dist.shared.loadConfigFile.js",
+      "size": 24436
+    },
+    {
+      "id": "VUE.rollup.dist.shared.mergeOptions.js",
+      "size": 8170
+    },
+    {
+      "id": "VUE.rollup.dist.shared.rollup.js",
+      "size": 886672
+    },
+    {
+      "id": "VUE.rollup.dist.shared.watch-cli.js",
+      "size": 15885
+    },
+    {
+      "id": "VUE.rollup.dist.shared.watch.js",
+      "size": 10072
+    },
+    {
+      "id": "VUE.rollup.package.json",
+      "size": 5460
+    },
+    {
+      "id": "VUE.source-map",
+      "size": 806176
+    },
+    {
+      "id": "VUE.source-map.CHANGELOG.md",
+      "size": 7884
+    },
+    {
+      "id": "VUE.source-map.LICENSE",
+      "size": 1526
+    },
+    {
+      "id": "VUE.source-map.README.md",
+      "size": 24072
+    },
+    {
+      "id": "VUE.source-map.dist",
+      "size": 664571
+    },
+    {
+      "id": "VUE.source-map.dist.source-map.debug.js",
+      "size": 272874
+    },
+    {
+      "id": "VUE.source-map.dist.source-map.js",
+      "size": 106973
+    },
+    {
+      "id": "VUE.source-map.dist.source-map.min.js",
+      "size": 27111
+    },
+    {
+      "id": "VUE.source-map.dist.source-map.min.js.map",
+      "size": 257409
+    },
+    {
+      "id": "VUE.source-map.lib",
+      "size": 101739
+    },
+    {
+      "id": "VUE.source-map.lib.array-set.js",
+      "size": 3197
+    },
+    {
+      "id": "VUE.source-map.lib.base64-vlq.js",
+      "size": 4714
+    },
+    {
+      "id": "VUE.source-map.lib.base64.js",
+      "size": 1540
+    },
+    {
+      "id": "VUE.source-map.lib.binary-search.js",
+      "size": 4249
+    },
+    {
+      "id": "VUE.source-map.lib.mapping-list.js",
+      "size": 2339
+    },
+    {
+      "id": "VUE.source-map.lib.quick-sort.js",
+      "size": 3616
+    },
+    {
+      "id": "VUE.source-map.lib.source-map-consumer.js",
+      "size": 40562
+    },
+    {
+      "id": "VUE.source-map.lib.source-map-generator.js",
+      "size": 14356
+    },
+    {
+      "id": "VUE.source-map.lib.source-node.js",
+      "size": 13808
+    },
+    {
+      "id": "VUE.source-map.lib.util.js",
+      "size": 12950
+    },
+    {
+      "id": "VUE.source-map.package.json",
+      "size": 2579
+    },
+    {
+      "id": "VUE.source-map.source-map.d.ts",
+      "size": 3060
+    },
+    {
+      "id": "VUE.source-map.source-map.js",
+      "size": 405
+    },
+    {
+      "id": "VUE.source-map-js",
+      "size": 148545
+    },
+    {
+      "id": "VUE.source-map-js.CHANGELOG.md",
+      "size": 8606
+    },
+    {
+      "id": "VUE.source-map-js.LICENSE",
+      "size": 1526
+    },
+    {
+      "id": "VUE.source-map-js.README.md",
+      "size": 25736
+    },
+    {
+      "id": "VUE.source-map-js.lib",
+      "size": 105564
+    },
+    {
+      "id": "VUE.source-map-js.lib.array-set.js",
+      "size": 3197
+    },
+    {
+      "id": "VUE.source-map-js.lib.base64-vlq.js",
+      "size": 4714
+    },
+    {
+      "id": "VUE.source-map-js.lib.base64.js",
+      "size": 1540
+    },
+    {
+      "id": "VUE.source-map-js.lib.binary-search.js",
+      "size": 4249
+    },
+    {
+      "id": "VUE.source-map-js.lib.mapping-list.js",
+      "size": 2339
+    },
+    {
+      "id": "VUE.source-map-js.lib.quick-sort.js",
+      "size": 4068
+    },
+    {
+      "id": "VUE.source-map-js.lib.source-map-consumer.js",
+      "size": 41482
+    },
+    {
+      "id": "VUE.source-map-js.lib.source-map-generator.js",
+      "size": 14356
+    },
+    {
+      "id": "VUE.source-map-js.lib.source-node.js",
+      "size": 13808
+    },
+    {
+      "id": "VUE.source-map-js.lib.util.js",
+      "size": 15403
+    },
+    {
+      "id": "VUE.source-map-js.package.json",
+      "size": 2548
+    },
+    {
+      "id": "VUE.source-map-js.source-map.d.ts",
+      "size": 3854
+    },
+    {
+      "id": "VUE.source-map-js.source-map.js",
+      "size": 405
+    },
+    {
+      "id": "VUE.sourcemap-codec",
+      "size": 32380
+    },
+    {
+      "id": "VUE.sourcemap-codec.CHANGELOG.md",
+      "size": 1249
+    },
+    {
+      "id": "VUE.sourcemap-codec.LICENSE",
+      "size": 1072
+    },
+    {
+      "id": "VUE.sourcemap-codec.README.md",
+      "size": 1835
+    },
+    {
+      "id": "VUE.sourcemap-codec.dist",
+      "size": 26169
+    },
+    {
+      "id": "VUE.sourcemap-codec.dist.sourcemap-codec.es.js",
+      "size": 4200
+    },
+    {
+      "id": "VUE.sourcemap-codec.dist.sourcemap-codec.es.js.map",
+      "size": 8249
+    },
+    {
+      "id": "VUE.sourcemap-codec.dist.sourcemap-codec.umd.js",
+      "size": 4717
+    },
+    {
+      "id": "VUE.sourcemap-codec.dist.sourcemap-codec.umd.js.map",
+      "size": 8286
+    },
+    {
+      "id": "VUE.sourcemap-codec.dist.types",
+      "size": 479
+    },
+    {
+      "id": "VUE.sourcemap-codec.dist.types.sourcemap-codec.d.ts",
+      "size": 377
+    },
+    {
+      "id": "VUE.sourcemap-codec.package.json",
+      "size": 1817
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag",
+      "size": 8816
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.CHANGELOG.md",
+      "size": 1989
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.LICENSE",
+      "size": 1067
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.README.md",
+      "size": 2287
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.browser.js",
+      "size": 38
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.index.js",
+      "size": 293
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.package.json",
+      "size": 1895
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.test",
+      "size": 839
+    },
+    {
+      "id": "VUE.supports-preserve-symlinks-flag.test.index.js",
+      "size": 737
+    },
+    {
+      "id": "VUE.vite",
+      "size": 4589287
+    },
+    {
+      "id": "VUE.vite.LICENSE.md",
+      "size": 182935
+    },
+    {
+      "id": "VUE.vite.README.md",
+      "size": 1164
+    },
+    {
+      "id": "VUE.vite.bin",
+      "size": 4085
+    },
+    {
+      "id": "VUE.vite.bin.openChrome.applescript",
+      "size": 2356
+    },
+    {
+      "id": "VUE.vite.bin.vite.js",
+      "size": 1593
+    },
+    {
+      "id": "VUE.vite.client.d.ts",
+      "size": 3720
+    },
+    {
+      "id": "VUE.vite.dist",
+      "size": 4314559
+    },
+    {
+      "id": "VUE.vite.dist.client",
+      "size": 54155
+    },
+    {
+      "id": "VUE.vite.dist.client.client.mjs",
+      "size": 18416
+    },
+    {
+      "id": "VUE.vite.dist.client.client.mjs.map",
+      "size": 33073
+    },
+    {
+      "id": "VUE.vite.dist.client.env.mjs",
+      "size": 776
+    },
+    {
+      "id": "VUE.vite.dist.client.env.mjs.map",
+      "size": 1686
+    },
+    {
+      "id": "VUE.vite.dist.node",
+      "size": 4260268
+    },
+    {
+      "id": "VUE.vite.dist.node.chunks",
+      "size": 3086039
+    },
+    {
+      "id": "VUE.vite.dist.node.chunks.dep-2056ae8a.js",
+      "size": 12828
+    },
+    {
+      "id": "VUE.vite.dist.node.chunks.dep-59dc6e00.js",
+      "size": 1937821
+    },
+    {
+      "id": "VUE.vite.dist.node.chunks.dep-739cc694.js",
+      "size": 300323
+    },
+    {
+      "id": "VUE.vite.dist.node.chunks.dep-a9015192.js",
+      "size": 22032
+    },
+    {
+      "id": "VUE.vite.dist.node.chunks.dep-ac1ae66b.js",
+      "size": 590724
+    },
+    {
+      "id": "VUE.vite.dist.node.chunks.dep-d2c728c0.js",
+      "size": 222039
+    },
+    {
+      "id": "VUE.vite.dist.node.cli.js",
+      "size": 25563
+    },
+    {
+      "id": "VUE.vite.dist.node.index.d.ts",
+      "size": 99386
+    },
+    {
+      "id": "VUE.vite.dist.node.index.js",
+      "size": 5751
+    },
+    {
+      "id": "VUE.vite.dist.node.terser.js",
+      "size": 1043291
+    },
+    {
+      "id": "VUE.vite.package.json",
+      "size": 3901
+    },
+    {
+      "id": "VUE.vite.src",
+      "size": 19973
+    },
+    {
+      "id": "VUE.vite.src.client",
+      "size": 19871
+    },
+    {
+      "id": "VUE.vite.src.client.client.ts",
+      "size": 14437
+    },
+    {
+      "id": "VUE.vite.src.client.env.ts",
+      "size": 729
+    },
+    {
+      "id": "VUE.vite.src.client.overlay.ts",
+      "size": 4262
+    },
+    {
+      "id": "VUE.vite.src.client.tsconfig.json",
+      "size": 239
+    },
+    {
+      "id": "VUE.vite.types",
+      "size": 58610
+    },
+    {
+      "id": "VUE.vite.types.alias.d.ts",
+      "size": 2301
+    },
+    {
+      "id": "VUE.vite.types.anymatch.d.ts",
+      "size": 214
+    },
+    {
+      "id": "VUE.vite.types.chokidar.d.ts",
+      "size": 7690
+    },
+    {
+      "id": "VUE.vite.types.commonjs.d.ts",
+      "size": 8663
+    },
+    {
+      "id": "VUE.vite.types.connect.d.ts",
+      "size": 3334
+    },
+    {
+      "id": "VUE.vite.types.customEvent.d.ts",
+      "size": 404
+    },
+    {
+      "id": "VUE.vite.types.dynamicImportVars.d.ts",
+      "size": 546
+    },
+    {
+      "id": "VUE.vite.types.hmrPayload.d.ts",
+      "size": 904
+    },
+    {
+      "id": "VUE.vite.types.hot.d.ts",
+      "size": 607
+    },
+    {
+      "id": "VUE.vite.types.http-proxy.d.ts",
+      "size": 7973
+    },
+    {
+      "id": "VUE.vite.types.importMeta.d.ts",
+      "size": 1112
+    },
+    {
+        "id": "VUE.vite.types.package.json",
+        "size": 79
+    },
+    {
+        "id": "VUE.vite.types.shims.d.ts",
+        "size": 2036
+    },
+    {
+        "id": "VUE.vite.types.terser.d.ts",
+        "size": 5733
+    },
+    {
+        "id": "VUE.vite.types.ws.d.ts",
+        "size": 16436
+    },
+    {
+        "id": "VUE.vue",
+        "size": 2531671
+    },
+    {
+        "id": "VUE.vue.LICENSE",
+        "size": 1091
+    },
+    {
+        "id": "VUE.vue.README.md",
+        "size": 4105
+    },
+    {
+        "id": "VUE.vue.compiler-sfc",
+        "size": 391
+    },
+    {
+        "id": "VUE.vue.compiler-sfc.index.d.ts",
+        "size": 34
+    },
+    {
+        "id": "VUE.vue.compiler-sfc.index.js",
+        "size": 46
+    },
+    {
+        "id": "VUE.vue.compiler-sfc.index.mjs",
+        "size": 33
+    },
+    {
+        "id": "VUE.vue.compiler-sfc.package.json",
+        "size": 74
+    },
+    {
+        "id": "VUE.vue.dist",
+        "size": 2519791
+    },
+    {
+        "id": "VUE.vue.dist.vue.cjs.js",
+        "size": 2725
+    },
+    {
+        "id": "VUE.vue.dist.vue.cjs.prod.js",
+        "size": 2147
+    },
+    {
+        "id": "VUE.vue.dist.vue.d.ts",
+        "size": 270
+    },
+    {
+        "id": "VUE.vue.dist.vue.esm-browser.js",
+        "size": 606230
+    },
+    {
+        "id": "VUE.vue.dist.vue.esm-browser.prod.js",
+        "size": 130931
+    },
+    {
+        "id": "VUE.vue.dist.vue.esm-bundler.js",
+        "size": 2629
+    },
+    {
+        "id": "VUE.vue.dist.vue.global.js",
+        "size": 636006
+    },
+    {
+        "id": "VUE.vue.dist.vue.global.prod.js",
+        "size": 127923
+    },
+    {
+        "id": "VUE.vue.dist.vue.runtime.esm-browser.js",
+        "size": 408572
+    },
+    {
+        "id": "VUE.vue.dist.vue.runtime.esm-browser.prod.js",
+        "size": 84424
+    },
+    {
+        "id": "VUE.vue.dist.vue.runtime.esm-bundler.js",
+        "size": 611
+    },
+    {
+        "id": "VUE.vue.dist.vue.runtime.global.js",
+        "size": 433029
+    },
+    {
+        "id": "VUE.vue.dist.vue.runtime.global.prod.js",
+        "size": 83784
+    },
+    {
+        "id": "VUE.vue.index.js",
+        "size": 171
+    },
+    {
+        "id": "VUE.vue.index.mjs",
+        "size": 26
+    },
+    {
+        "id": "VUE.vue.macros-global.d.ts",
+        "size": 414
+    },
+    {
+        "id": "VUE.vue.macros.d.ts",
+        "size": 2909
+    },
+    {
+        "id": "VUE.vue.package.json",
+        "size": 1841
+    },
+    {
+        "id": "VUE.vue.ref-macros.d.ts",
+        "size": 90
+    },
+    {
+        "id": "VUE.vue.server-renderer",
+        "size": 400
+    },
+    {
+        "id": "VUE.vue.server-renderer.index.d.ts",
+        "size": 37
+    },
+    {
+        "id": "VUE.vue.server-renderer.index.js",
+        "size": 49
+    },
+    {
+        "id": "VUE.vue.server-renderer.index.mjs",
+        "size": 36
+    },
+    {
+        "id": "VUE.vue.server-renderer.package.json",
+        "size": 74
+    }
+]
