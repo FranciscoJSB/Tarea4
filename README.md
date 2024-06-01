@@ -11,9 +11,11 @@ https://github.com/FranciscoJSB/Tarea4
 
 Sitios en Netlify
 
-https://665b6687d763680008ddead4--franciscosolano-tarea4.netlify.app/ejercicio1
+https://app.netlify.com/sites/tarea4-franciscosolano/deploys/665b7341ea270e24fac1482e
 
-https://665b6687d763680008ddead4--franciscosolano-tarea4.netlify.app/ejercicio2
+https://main--tarea4-franciscosolano.netlify.app/ejercicio1
+
+https://main--tarea4-franciscosolano.netlify.app/ejercicio2
 
 -----------------------------------------------------------------------------------------------------
 
@@ -25,7 +27,7 @@ Pasos para ejecutar:
 
 Ejercicio 1
 
-1. Ingresar al sitio https://main--franciscosolano-tarea4.netlify.app/ejercicio1 en este se encuentra publicado el ejercicio en Netlify
+1. Ingresar al sitio https://main--tarea4-franciscosolano.netlify.app/ejercicio1 en este se encuentra publicado el ejercicio en Netlify
 
 2.  Puede hacer "zoom" a las diferentes partes del mapa
 
@@ -42,6 +44,6 @@ Ejercicio 2
 
 -Visualización
 
-1. Ingresar al sitio https://main--franciscosolano-tarea4.netlify.app/ejercicio2 
+1. Ingresar al sitio https://main--tarea4-franciscosolano.netlify.app/ejercicio2
 
 2. En esta se muestran las 5 visualizaciones solicitadas
